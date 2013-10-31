@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<title>BTEC Checker</title>
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <!-- Bootstrap -->
+	    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <link href="css/bootstrap-responsive.css" rel="stylesheet" type="text/css">
+        <link href="css/stylesheet.css" rel="stylesheet" type="text/css">
+	    <script src="http://code.jquery.com/jquery.js"></script>
+	    <script src="js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/script.js"></script>
+        <script type="text/javascript" src="js/btec.js"></script>
+	</head>
+	<body>
+	    <div class="container-fluid">
+			<h1>BTEC Level 3 Checker</h1>
+			<p>The purpose of this page is to allow you to determine a final grade for your BTEC,
+				based on the grades of each unit studied.</p>
+			<p>Select the grade by clicking the appropriate level for the unit.
+				Options cannot be changed after selection; carefully consider your
+				choice.</p>
+			<div class="row">
+				<div class="span5">
+					<form>
+						<fieldset>
+							<legend>Unit 1: Pre-production techniques</legend>
+							<label class="radio inline">
+								<input type="radio" name="U01" onclick="displayResult(0,'U01')" value="nya">NYA
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U01" onclick="displayResult(35,'U01')" value="pass">Pass
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U01" onclick="displayResult(40,'U01')" value="merit">Merit
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U01" onclick="displayResult(45,'U01')" value="dist">Distinction
+							</label>
+						</fieldset>
+						<fieldset>
+							<legend>Unit 2: Communication skills</legend>
+							<label class="radio inline">
+								<input type="radio" name="U02" onclick="displayResult(0,'U02')" value="nya">NYA
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U02" onclick="displayResult(35,'U02')" value="pass">Pass
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U02" onclick="displayResult(40,'U02')" value="merit">Merit
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U02" onclick="displayResult(45,'U02')" value="dist">Distinction
+							</label>
+						</fieldset>
+						<fieldset>
+							<legend>Unit 3: Research techniques</legend>
+							<label class="radio inline">
+								<input type="radio" name="U03" onclick="displayResult(0,'U03')" value="nya">NYA
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U03" onclick="displayResult(70,'U03')" value="pass">Pass
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U03" onclick="displayResult(80,'U03')" value="merit">Merit
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U03" onclick="displayResult(90,'U03')" value="dist">Distinction
+							</label>
+						</fieldset>
+						<fieldset>
+							<legend>Unit 19: Digital graphics</legend>
+							<label class="radio inline">
+								<input type="radio" name="U19" onclick="displayResult(0,'U19')" value="nya">NYA
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U19" onclick="displayResult(70,'U19')" value="pass">Pass
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U19" onclick="displayResult(80,'U19')" value="merit">Merit
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U19" onclick="displayResult(90,'U19')" value="dist">Distinction
+							</label>
+						</fieldset>
+						<fieldset>
+							<legend>Unit 59: Web authoring</legend>
+							<label class="radio inline">
+								<input type="radio" name="U59" onclick="displayResult(0,'U59')" value="nya">NYA
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U59" onclick="displayResult(70,'U59')" value="pass">Pass
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U59" onclick="displayResult(80,'U59')" value="merit">Merit
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U59" onclick="displayResult(90,'U59')" value="dist">Distinction
+							</label>
+						</fieldset>
+						<fieldset>
+							<legend>Unit 62: Digital video production</legend>
+							<label class="radio inline">
+								<input type="radio" name="U62" onclick="displayResult(0,'U62')" value="nya">NYA
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U62" onclick="displayResult(70,'U62')" value="pass">Pass
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U62" onclick="displayResult(80,'U62')" value="merit">Merit
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U62" onclick="displayResult(90,'U62')" value="dist">Distinction
+							</label>
+						</fieldset>
+						<fieldset>
+							<legend>Unit 65: Web animation</legend>
+							<label class="radio inline">
+								<input type="radio" name="U65" onclick="displayResult(0,'U65')" value="nya">NYA
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U65" onclick="displayResult(70,'U65')" value="pass">Pass
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U65" onclick="displayResult(80,'U65')" value="merit">Merit
+							</label>
+							<label class="radio inline">
+								<input type="radio" name="U65" onclick="displayResult(90,'U65')" value="dist">Distinction
+							</label>
+						</fieldset>
+					</form>
+				</div>
+				<div class="span3 offset1">
+					<h2 class="drop">Result</h2>
+					<p class="drop">Each unit earns points based on grade. Your point score is:</p>
+					<h3 id="grade">-</h3>
+					<p class="drop">Points are added together to get an overall grade. Your grade is:</p>
+					<h1 id="final">-</h1>
+					<p class="drop">
+						<input type="button" value="Refresh" onClick="document.location.reload(true)" class="btn btn-success">
+					</p>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

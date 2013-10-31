@@ -1,0 +1,465 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-variant"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"com",
+				"comma2"
+			],
+			[
+				"co",
+				"comma1"
+			],
+			[
+				"comma",
+				"comma1"
+			],
+			[
+				"or",
+				"original"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Pass",
+				"pass"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"s",
+				"style	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/chrome-preview.sublime-build",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/JSH/sites/btec/index.html",
+		"/Users/JSH/sites/btec/js/btec.js",
+		"/Users/JSH/sites/hex/index.html",
+		"/Users/JSH/sites/btec/js/script.js",
+		"/Users/JSH/sites/hex/explained.html",
+		"/Users/JSH/sites/hex/css/stylesheet.css",
+		"/Users/JSH/sites/hex/fonts/OpenDyslexic-Regular.ttf",
+		"/Users/JSH/Desktop/hexMockup.xml",
+		"/Users/JSH/Desktop/codecademy 2/index.html",
+		"/Users/JSH/Desktop/codecademy 2/js/btec.js",
+		"/Users/JSH/Desktop/test.md",
+		"/Users/JSH/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/JSH/Library/Application Support/Sublime Text 2/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/JSH/Desktop/bootstrap/index.html",
+		"/Users/JSH/Desktop/bootstrap/js/bootstrap.js",
+		"/Users/JSH/Desktop/L2sample/U20/meg.html",
+		"/Users/JSH/Desktop/L2sample/U22/marissa.html",
+		"/Users/JSH/Desktop/L2sample/U20/marissa.html",
+		"/Users/JSH/Desktop/Illustrated_Guide_to_Front-End_Development_with_Examples/README.txt",
+		"/Users/JSH/Desktop/L2sample/U01/rory.html",
+		"/Users/JSH/Desktop/L2sample/U01/james.html",
+		"/Users/JSH/Desktop/L2sample/U01/hannah.html",
+		"/Users/JSH/Desktop/L2sample/U01/jason.html",
+		"/Users/JSH/Desktop/L2sample/index.html",
+		"/Users/JSH/Desktop/L2sample/U01/jack.html",
+		"/Users/JSH/Desktop/L2sample/U01/meg.html",
+		"/Users/JSH/Desktop/L2sample/U23/emily.html",
+		"/Users/JSH/Desktop/L2sample/U23/diana.html",
+		"/Users/JSH/Desktop/L2sample/U23/james.html",
+		"/Users/JSH/Desktop/L2sample/U23/michael.html",
+		"/Users/JSH/Desktop/L2sample/U23/owen.html",
+		"/Users/JSH/Desktop/L2sample/U23/jack.html",
+		"/Users/JSH/Desktop/L2sample/U02/marissa.html",
+		"/Users/JSH/Desktop/L2sample/U02/owen.html",
+		"/Users/JSH/Desktop/L2sample/U02/jack.html",
+		"/Users/JSH/Desktop/L2sample/U02/rory.html",
+		"/Users/JSH/Desktop/L2sample/U02/henry.html",
+		"/Users/JSH/Desktop/L2sample/U04/diana.html",
+		"/Users/JSH/Desktop/L2sample/U04/meg.html",
+		"/Users/JSH/Desktop/L2sample/U05/jack.html",
+		"/Users/JSH/Desktop/L2sample/U13/owen.html",
+		"/Users/JSH/Desktop/L2sample/U13/james.html",
+		"/Users/JSH/Desktop/L2sample/U13/marissa.html",
+		"/Users/JSH/Desktop/L2sample/U20/jack.html",
+		"/Users/JSH/Desktop/L2sample/U20/henry.html",
+		"/Users/JSH/Desktop/L2sample/U20/jason.html",
+		"/Users/JSH/Desktop/L2sample/U20/diana.html",
+		"/Users/JSH/Desktop/L2sample/U21/henry.html",
+		"/Users/JSH/Desktop/L2sample/U21/diana.html",
+		"/Users/JSH/Desktop/L2sample/U21/jack.html",
+		"/Users/JSH/Desktop/L2sample/U22/jack.html",
+		"/Users/JSH/Desktop/L2sample/U22/meg.html",
+		"/Users/JSH/Desktop/L2sample/U22/henry.html",
+		"/Users/JSH/Desktop/L2sample/U22/diana.html",
+		"/Users/JSH/Desktop/L2sample/U06/owen.html",
+		"/Users/JSH/Desktop/L2sample/U05/marissa.html",
+		"/Users/JSH/Desktop/L2sample/U13/diana.html",
+		"/Users/JSH/Desktop/L2sample/U21/x255/Diana Raychinova_buttons2_1338.html",
+		"/Users/JSH/Desktop/L2sample/U02/sites/diana/index.html",
+		"/Users/JSH/Desktop/sample/jek2/cw1a/Animation Techniques.html",
+		"/Users/JSH/Desktop/sample/jek1/cd2a/assessment.html",
+		"/Users/JSH/Desktop/sample/jek1/cd1a/assessment.html",
+		"/Users/JSH/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/JSH/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/JSH/Desktop/sam/media checklist Level 2.html",
+		"/Users/JSH/Library/Application Support/Sublime Text 2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/JSH/Library/Application Support/Sublime Text 2/Packages/User/chrome-preview.sublime-build",
+		"/Users/JSH/sites/hellofthenorth/css/hellofthenorth.css",
+		"/Users/JSH/sites/hellofthenorth/index.html",
+		"/Users/JSH/Desktop/heimdall_v1.4rc1_mac/heimdall",
+		"/Users/JSH/Desktop/11/docs/01AO4.html",
+		"/Users/JSH/Desktop/11/docs/01AO5.html",
+		"/Users/JSH/Desktop/11/docs/01AO6.html",
+		"/Users/JSH/Desktop/11/docs/23AO1.html",
+		"/Users/JSH/Desktop/11/docs/23AO2.html",
+		"/Users/JSH/Desktop/11/docs/01AO1.html",
+		"/Users/JSH/Desktop/11/docs/23AO3.html",
+		"/Users/JSH/Desktop/11/docs/01AO3.html",
+		"/Users/JSH/Desktop/11/docs/01AO2a.html",
+		"/Users/JSH/Desktop/11/docs/01AO2b.html",
+		"/Users/JSH/Desktop/11/docs/23AO4.html",
+		"/Users/JSH/Dropbox/Media/KS4/Illustrated_Guide_to_Front-End_Development_with_Examples/README.txt",
+		"/Users/JSH/Desktop/11/index.html",
+		"/Users/JSH/Desktop/10m",
+		"/Users/JSH/Desktop/13d",
+		"/Users/JSH/Desktop/track_2381062.pwx",
+		"/Users/JSH/Desktop/test.html",
+		"/Users/JSH/Desktop/test2.html",
+		"/Users/JSH/Desktop/11/docs/dst.html",
+		"/Users/JSH/Desktop/11/docs/dvp.html",
+		"/Users/JSH/Desktop/11/docs/jsh.html",
+		"/Users/JSH/Desktop/11/docs/jek.html",
+		"/Users/JSH/Desktop/11/docs/im.html",
+		"/Volumes/JSH/11/23AO1.html",
+		"/Volumes/JSH/11/23AO2.html",
+		"/Volumes/JSH/11/23AO3.html",
+		"/Volumes/JSH/11/23AO4.html",
+		"/Volumes/JSH/11/01AO2b.html",
+		"/Volumes/JSH/11/01AO3.html",
+		"/Volumes/JSH/11/01AO4.html",
+		"/Volumes/JSH/11/01AO5.html",
+		"/Volumes/JSH/11/01AO6.html",
+		"/Volumes/JSH/11/01AO2a.html",
+		"/Volumes/JSH/11/01AO1.html",
+		"/Volumes/JSH/11/archive.xlsm",
+		"/Volumes/JSH/11/jsh.html",
+		"/Volumes/JSH/11/index.html",
+		"/Volumes/JSH/11/im.html",
+		"/Volumes/JSH/11/jek.html",
+		"/Users/JSH/Desktop/stylesheet.css",
+		"/Users/JSH/Desktop/index.html",
+		"/Users/JSH/Desktop/media video work",
+		"/Users/JSH/Dropbox/Staff/JSH/etc/ICT 20 Percent Project.txt",
+		"/Users/JSH/BrytonBridge/bb.ini",
+		"/Users/JSH/BrytonBridge/bb.log",
+		"/Users/JSH/Desktop/yacapaca_new.csv",
+		"/Users/JSH/Desktop/NoteScraper for Evernote/README.txt",
+		"/Users/JSH/Desktop/Evernote.sql",
+		"/Users/JSH/Library/Containers/com.evernote.Evernote/Container.plist",
+		"/Volumes/JSH HDD/H/mac/cs4.serial"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"12em",
+			"\n			",
+			"../assets/",
+			"chmod 777",
+			"li>",
+			"\")\"",
+			",\"U0",
+			"0)\"",
+			"storyboard",
+			"x075",
+			"x004",
+			"x255",
+			"improvements",
+			"x255",
+			"\n</a>/",
+			"\n        </a> ",
+			"../../web and graphics/website/",
+			"x075",
+			" target=\"_blank\"",
+			"br/",
+			"<input type=\"checkbox\"/>",
+			"div",
+			"<div><input type=\"checkbox\"/>",
+			"<div>\n<div><input type=\"checkbox\"/>",
+			"blockquote",
+			" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"",
+			"  ",
+			"   ",
+			"assets/",
+			"../",
+			"!",
+			"\">previous",
+			"\" accesskey=\"p\">previous",
+			"\">next",
+			"Feb 14, 2013",
+			"\">eval",
+			"\">make",
+			"\">desi",
+			"\">review",
+			"\">data",
+			"\">spread",
+			"\">docu",
+			"\">present",
+			"\">email",
+			"\">internet",
+			"\">practices",
+			"ISP",
+			"html",
+			"src=\"'",
+			"href=\"index",
+			"href=\"index'",
+			"href=\"'",
+			"\"../x",
+			"\"x",
+			"\"23A",
+			"\"01A",
+			"/ict/",
+			"(,)(*)(,)",
+			"Year 7 2012,",
+			"Studentset,",
+			"^,",
+			"(,)(L)(.)",
+			",L.",
+			"a"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"chown ftp:ftp",
+			"fieldset>",
+			"')\"",
+			",'U0",
+			"0,\"U0\")\"",
+			"",
+			"x266",
+			"x065",
+			"x192",
+			"x167",
+			"x153",
+			"x192",
+			"x024",
+			"x255",
+			"x167",
+			"x086",
+			"x153",
+			"x217",
+			"x018",
+			"x204",
+			"x086",
+			"x204",
+			"x217",
+			"</a> /",
+			"</a>",
+			"",
+			"x255",
+			"",
+			"/li",
+			"<li>",
+			"li",
+			"<li>",
+			"ul",
+			"",
+			"\" accesskey=\"p\">previous",
+			"\">previous",
+			"\" accesskey=\"n\">next",
+			"",
+			"\" target=\"_blank\">eval",
+			"\" target=\"_blank\">make",
+			"\" target=\"_blank\">desi",
+			"\" target=\"_blank\">review",
+			"\" target=\"_blank\">data",
+			"\" target=\"_blank\">spread",
+			"\" target=\"_blank\">docu",
+			"\" target=\"_blank\">present",
+			"\" target=\"_blank\">email",
+			"\" target=\"_blank\">internet",
+			"\" target=\"_blank\">practices",
+			"web host",
+			"src=\"../'",
+			"href=\"../index",
+			"href=\"../index'",
+			"href=\"../'",
+			"\"x",
+			"\"../x",
+			"\"docs/23A",
+			"\"docs/01A",
+			"/",
+			"",
+			"\\1\\3",
+			",."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true
+}
